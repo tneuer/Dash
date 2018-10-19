@@ -4,8 +4,8 @@
     # Author : Thomas Neuer (tneuer)
     # File Name : 3Dash.py
     # Creation Date : Die 16 Okt 2018 19:57:36 CEST
-    # Last Modified : Die 16 Okt 2018 20:42:50 CEST
-    # Description :
+    # Last Modified : Fre 19 Okt 2018 22:24:24 CEST
+    # Description : Stock Market with variable input
 """
 #==============================================================================
 
