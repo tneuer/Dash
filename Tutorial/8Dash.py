@@ -103,8 +103,3 @@ def open_and_close_tab(clicks_open, clicks_close, current_tabs, selected_tab):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-
-
-
-
